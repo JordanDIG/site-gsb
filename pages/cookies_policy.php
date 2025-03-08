@@ -12,7 +12,7 @@
         <div class="policy-container">
             <h1>Politique de Cookies</h1>
 
-            <p>Cette politique de cookies explique comment <strong>MicroApp Solutions</strong> utilise des cookies et technologies similaires pour améliorer votre expérience sur notre site web.</p>
+            <p>Cette politique de cookies explique comment <strong>GSB</strong> utilise des cookies et technologies similaires pour améliorer votre expérience sur notre site web.</p>
 
             <section>
                 <h3>1. Qu'est-ce qu'un cookie ?</h3>

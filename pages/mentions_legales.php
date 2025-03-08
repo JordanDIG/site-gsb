@@ -15,8 +15,8 @@
 
             <section>
                 <h3>1. Informations légales</h3>
-                <p>Le site <strong>MicroApp Solutions</strong> est édité par :</p>
-                <p><strong>Nom de l'entreprise :</strong> MicroApp Solutions</p>
+                <p>Le site <strong>GSB</strong> est édité par :</p>
+                <p><strong>Nom de l'entreprise :</strong> GSB</p>
                 <p><strong>Forme juridique :</strong> Société à Responsabilité Limitée (SARL)</p>
                 <p><strong>Adresse :</strong> 123 Rue de l'Innovation, 75000 Paris, France</p>
                 <p><strong>Téléphone :</strong> +33 1 23 45 67 89</p>
@@ -45,12 +45,12 @@
 
             <section>
                 <h3>5. Propriété intellectuelle</h3>
-                <p>Le contenu du site, y compris les textes, images, graphiques, logos, vidéos et autres éléments, est protégé par les lois sur la propriété intellectuelle. Toute reproduction ou distribution de ce contenu sans l’autorisation préalable de MicroApp Solutions est interdite.</p>
+                <p>Le contenu du site, y compris les textes, images, graphiques, logos, vidéos et autres éléments, est protégé par les lois sur la propriété intellectuelle. Toute reproduction ou distribution de ce contenu sans l’autorisation préalable de GSB est interdite.</p>
             </section>
 
             <section>
                 <h3>6. Responsabilité</h3>
-                <p>MicroApp Solutions ne peut être tenu responsable des erreurs, des inexactitudes ou des omissions contenues sur le site. Nous nous efforçons de maintenir à jour les informations, mais nous ne garantissons pas leur exhaustivité ou leur exactitude.</p>
+                <p>GSB ne peut être tenu responsable des erreurs, des inexactitudes ou des omissions contenues sur le site. Nous nous efforçons de maintenir à jour les informations, mais nous ne garantissons pas leur exhaustivité ou leur exactitude.</p>
             </section>
 
             <section>

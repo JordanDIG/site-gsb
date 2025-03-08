@@ -10,8 +10,8 @@
             </ul>
         </div>
         <div class="footer-info">
-            <p>&copy; 2024 MicroApp Solutions - Tous droits réservés</p>
-            <p>Site développé par l'équipe MicroApp Solutions.</p>
+            <p>&copy; 2024 GSB - Tous droits réservés</p>
+            <p>Site développé par l'équipe GSB. - NGINX-BACKEND-1</p>
         </div>
     </div>
 </footer>

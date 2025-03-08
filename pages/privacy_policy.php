@@ -13,7 +13,7 @@
         <div class="container policy-container">
             <h1 class="policy-title">Politique de Confidentialité</h1>
 
-            <p class="intro-text">Chez <strong>MicroApp Solutions</strong>, nous nous engageons à protéger vos données personnelles et à respecter votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données.</p>
+            <p class="intro-text">Chez <strong>GSB</strong>, nous nous engageons à protéger vos données personnelles et à respecter votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données.</p>
 
             <section class="policy-section">
                 <h2>1. Collecte des données personnelles</h2>

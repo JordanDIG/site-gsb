@@ -16,7 +16,7 @@ session_regenerate_id(true);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Le titre de la page qui sera affiché dans l'onglet du navigateur -->
-    <title>MicroApp Solutions</title>
+    <title>GSB</title>
 
     <!-- Lien vers la feuille de style CSS pour le design de la page -->
     <link rel="stylesheet" href="../assets/css/styles.css">

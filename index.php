@@ -8,11 +8,11 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="MicroApp Solutions - Applications innovantes pour smartphones">
-    <meta name="author" content="MicroApp Solutions">
+    <meta name="description" content="GSB - Applications innovantes pour smartphones">
+    <meta name="author" content="GSB">
     <meta name="keywords" content="applications, smartphone, productivité, innovation">
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <title>MicroApp Solutions - Accueil</title>
+    <title>GSB - Accueil</title>
 </head>
 
 <body>
@@ -23,7 +23,7 @@ session_start();
     <main>
         <section class="hero">
             <div class="container">
-                <h1>Bienvenue chez MicroApp Solutions</h1>
+                <h1>Bienvenue chez GSB</h1>
                 <p>Découvrez nos applications innovantes pour simplifier votre quotidien.</p>
                 <?php
                 if (!isset($_SESSION['user_id']) || !is_numeric($_SESSION['user_id'])) {
@@ -37,7 +37,7 @@ session_start();
         </section>
         <section class="features">
             <div class="container">
-                <h2>Pourquoi choisir MicroApp Solutions ?</h2>
+                <h2>Pourquoi choisir GSB ?</h2>
                 <div class="feature-grid">
                     <div class="feature-item">
                         <h3>Applications innovantes</h3>
